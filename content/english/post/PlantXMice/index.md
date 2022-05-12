@@ -4,3 +4,5 @@ date = "2022-05-12"
 +++
 
 Here is the [poster](Poster.pptx.pdf) and R notebook for my research project comparing the gene orthologs of root systems in Arabidopsis thaliana and nervous systems in mice. 
+
+![](SP22 PosterPresentations.com-36x48-Template-Forrest.pptx.png)
